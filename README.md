@@ -5,7 +5,7 @@
 
 ## SDK Documentation
 Version 2.x
-* [accounting](http://xeroapi.github.io/xero-php-oauth2/docs/v2/accounting/index.html)
+* [accounting](https://xeroapi.github.io/xero-php-oauth2/docs/v2/accounting/index.html)
 
 Coming soon 
 * identity
